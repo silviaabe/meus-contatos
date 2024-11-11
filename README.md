@@ -13,7 +13,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - <b>HTML</b> para a estruturação do conteúdo.
-- <<b>TypeScript</b> para facilitar a manutenção do código.
+- <b>TypeScript</b> para facilitar a manutenção do código.
 - <b>React</b> para componentização e organização do código.
 - <b>Vercel</b> para subir o projeto na web.
 
